@@ -8,4 +8,4 @@ In this study, X-ray images obtained three different sources were used for the d
 
 Our journal article in Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization
 
-### For downloading the article: https://www.tandfonline.com/doi/full/10.1080/21681163.2021.1889404?src=
+#### For downloading the article: https://www.tandfonline.com/doi/full/10.1080/21681163.2021.1889404?src=
